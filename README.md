@@ -33,5 +33,3 @@ A simple Python application to calculate the tip amount and total bill based on 
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome!
 
-## 🌟 Show Your Support
-If you found this project useful, please give it a ⭐ on GitHub!
